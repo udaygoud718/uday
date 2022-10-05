@@ -1,0 +1,25 @@
+
+  
+#form1{
+                     
+    margin:3px 6px;
+    width:50%;
+    height:700px;
+    text-align:center;
+
+}
+
+body{
+    background-image:url(library1);
+   
+    display:flex;
+    justify-content: center;
+    margin-top:70px;
+}
+input{
+    border-radius:1rem;
+}
+.button input:hover{
+background-color: aqua;
+color:black;
+}
